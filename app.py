@@ -2,9 +2,6 @@ import streamlit as st
 from app.postgres import Postgres
 from app.gemini import Gemini
 
-"""
-# Generative SQL Data
-"""
 gemini = Gemini()
 postgres = Postgres()
 postgres.connect()

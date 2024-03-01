@@ -1,7 +1,11 @@
 
-# Gemini
+# Gemini Text to SQL
 
 Gemini is a Python application that allows you to generate SQL queries based on user input using the Gemini-Pro model and query the PostgreSQL database.
+
+## Interface
+![Interface Screenshot](assets/screenshot.png)
+
 
 ## Installation
 
