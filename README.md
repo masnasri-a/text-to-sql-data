@@ -1,6 +1,4 @@
-Sure, here's a well-structured README in Markdown format:
 
-```markdown
 # Gemini
 
 Gemini is a Python application that allows you to generate SQL queries based on user input using the Gemini-Pro model and query the PostgreSQL database.
